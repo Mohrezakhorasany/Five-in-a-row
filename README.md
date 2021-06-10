@@ -4,6 +4,7 @@ Gomoku also called Five in a Row, is an abstract strategy board game. It is trad
 source [**Wikipedia**](https://en.wikipedia.org/wiki/Gomoku)
 
 **Note**:
+
 In my implementation board size being chosen by players at the start of the game, and instead of different colours onboard for each player, the X and O are used for differentiating between players.
 
 **Specificiation:** 
